@@ -1,0 +1,280 @@
+Constructor Board
+Board Initialized
+Random Mushrooms generated
+Player moved left, now at pos 490   5
+space pressed
+Player moved right, now at pos 520   5
+Player moved left, now at pos 490   5
+Player moved left, now at pos 480   5
+Player moved left, now at pos 470   5
+Player moved left, now at pos 460   5
+Player moved left, now at pos 450   5
+Player moved left, now at pos 440   5
+Player moved left, now at pos 430   5
+Player moved left, now at pos 420   5
+Player moved left, now at pos 410   5
+Player moved left, now at pos 400   5
+space pressed
+space pressed
+Collision between centipede and mushroom detected at 854   799
+==> Mushroom destroyed at 426   173
+Player moved left, now at pos 390   5
+Player moved left, now at pos 380   5
+Player moved left, now at pos 370   5
+space pressed
+space pressed
+Collision between centipede and mushroom detected at 315   765
+==> Mushroom destroyed at 397   239
+Player moved left, now at pos 360   5
+Player moved left, now at pos 350   5
+Player moved left, now at pos 340   5
+Player moved left, now at pos 330   5
+Player moved left, now at pos 320   5
+Player moved left, now at pos 310   5
+Player moved left, now at pos 300   5
+Player moved left, now at pos 290   5
+Collision between centipede and mushroom detected at 543   748
+Player moved left, now at pos 280   5
+Player moved left, now at pos 270   5
+Player moved left, now at pos 260   5
+Player moved left, now at pos 250   5
+Player moved left, now at pos 240   5
+Player moved left, now at pos 230   5
+Player moved left, now at pos 220   5
+Player moved left, now at pos 210   5
+Player moved left, now at pos 200   5
+Player moved left, now at pos 190   5
+Player moved left, now at pos 180   5
+Player moved left, now at pos 170   5
+Collision between centipede and mushroom detected at 67   727
+Player moved left, now at pos 160   5
+Player moved left, now at pos 150   5
+Player moved left, now at pos 140   5
+Player moved left, now at pos 130   5
+Player moved left, now at pos 120   5
+Player moved left, now at pos 110   5
+Player moved left, now at pos 100   5
+Player moved left, now at pos 90   5
+Player moved left, now at pos 80   5
+Player moved left, now at pos 70   5
+Player moved left, now at pos 60   5
+Player moved left, now at pos 50   5
+Player moved left, now at pos 40   5
+Player moved left, now at pos 30   5
+Player moved left, now at pos 20   5
+Player moved left, now at pos 10   5
+Player moved left, now at pos 0   5
+Player moved left, now at pos -10   5
+Player moved left, now at pos -20   5
+Player moved left, now at pos -20   5
+Player moved right, now at pos 20   5
+space pressed
+Collision between centipede and mushroom detected at 634   697
+Player moved right, now at pos 30   5
+Player moved right, now at pos 40   5
+Player moved right, now at pos 50   5
+Player moved right, now at pos 60   5
+Player moved right, now at pos 70   5
+Player moved right, now at pos 80   5
+Player moved right, now at pos 90   5
+Player moved right, now at pos 100   5
+Player moved right, now at pos 110   5
+Player moved right, now at pos 120   5
+Player moved right, now at pos 130   5
+Player moved right, now at pos 140   5
+Player moved right, now at pos 150   5
+Player moved right, now at pos 160   5
+Player moved right, now at pos 170   5
+Player moved right, now at pos 180   5
+Player moved right, now at pos 190   5
+Player moved right, now at pos 200   5
+Player moved right, now at pos 210   5
+Player moved right, now at pos 220   5
+Player moved right, now at pos 230   5
+Player moved right, now at pos 240   5
+Player moved right, now at pos 250   5
+Player moved right, now at pos 260   5
+Player moved right, now at pos 270   5
+Player moved right, now at pos 280   5
+Player moved right, now at pos 290   5
+Player moved right, now at pos 300   5
+Player moved right, now at pos 310   5
+Player moved right, now at pos 320   5
+Player moved right, now at pos 330   5
+Player moved right, now at pos 340   5
+Player moved right, now at pos 350   5
+Player moved right, now at pos 360   5
+Player moved right, now at pos 370   5
+Player moved right, now at pos 380   5
+Player moved right, now at pos 390   5
+Player moved right, now at pos 400   5
+Player moved right, now at pos 410   5
+Player moved right, now at pos 420   5
+Player moved right, now at pos 430   5
+Player moved right, now at pos 440   5
+Player moved right, now at pos 450   5
+Player moved right, now at pos 460   5
+Player moved right, now at pos 470   5
+Player moved right, now at pos 480   5
+Player moved right, now at pos 490   5
+Collision between centipede and mushroom detected at 155   673
+Player moved right, now at pos 500   5
+Player moved right, now at pos 510   5
+Player moved right, now at pos 520   5
+Player moved right, now at pos 530   5
+Player moved right, now at pos 540   5
+Player moved right, now at pos 550   5
+Player moved left, now at pos 520   5
+space pressed
+space pressed
+==> Mushroom destroyed at 535   101
+Player moved right, now at pos 550   5
+Player moved right, now at pos 560   5
+Player moved right, now at pos 570   5
+Player moved right, now at pos 580   5
+Player moved right, now at pos 590   5
+Player moved right, now at pos 600   5
+Player moved right, now at pos 610   5
+space pressed
+Player moved left, now at pos 580   5
+Collision between centipede and mushroom detected at 691   633
+space pressed
+space pressed
+==> Mushroom destroyed at 591   148
+Player moved left, now at pos 570   5
+Player moved left, now at pos 560   5
+Player moved left, now at pos 550   5
+Player moved left, now at pos 540   5
+Player moved left, now at pos 530   5
+Player moved left, now at pos 520   5
+Player moved left, now at pos 510   5
+Player moved left, now at pos 500   5
+space pressed
+Collision between centipede and mushroom detected at 883   592
+space pressed
+==> Mushroom destroyed at 533   307
+space pressed
+==> Mushroom destroyed at 516   469
+space pressed
+Player moved right, now at pos 530   5
+Collision between centipede and mushroom detected at 987   567
+space pressed
+space pressed
+Collision between centipede and mushroom detected at 876   521
+==> Mushroom destroyed at 541   742
+Collision between centipede and mushroom detected at 783   501
+space pressed
+==> Fire hit at centipede index 6
+==> Mushroom generated at 6
+space pressed
+==> Scorpio poisoned Mushroom at 113   677
+==> Scorpio poisoned Mushroom at 113   677
+==> Fire hit at centipede index 10
+==> Mushroom generated at 10
+space pressed
+space pressed
+Player moved right, now at pos 540   5
+==> Mushroom destroyed at 530   470
+Player moved right, now at pos 550   5
+Player moved right, now at pos 560   5
+Player moved right, now at pos 570   5
+Player moved right, now at pos 580   5
+Player moved right, now at pos 590   5
+Player moved right, now at pos 600   5
+Player moved right, now at pos 610   5
+Player moved right, now at pos 620   5
+Player moved right, now at pos 630   5
+Player moved right, now at pos 640   5
+Player moved right, now at pos 650   5
+Player moved right, now at pos 660   5
+Player moved right, now at pos 670   5
+Player moved right, now at pos 680   5
+Player moved right, now at pos 690   5
+Player moved right, now at pos 700   5
+Player moved right, now at pos 710   5
+Player moved right, now at pos 720   5
+Player moved right, now at pos 730   5
+Player moved right, now at pos 740   5
+Player moved right, now at pos 750   5
+Player moved right, now at pos 760   5
+Player moved right, now at pos 770   5
+Player moved right, now at pos 780   5
+Player moved right, now at pos 790   5
+Player moved right, now at pos 800   5
+Player moved right, now at pos 810   5
+Player moved right, now at pos 820   5
+Player moved right, now at pos 830   5
+Player moved right, now at pos 840   5
+Player moved right, now at pos 850   5
+Player moved right, now at pos 860   5
+Player moved right, now at pos 870   5
+Player moved right, now at pos 880   5
+Player moved right, now at pos 890   5
+Player moved right, now at pos 900   5
+space pressed
+Collision between centipede and mushroom detected at 346   423
+space pressed
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+space pressed
+Player moved left, now at pos 870   5
+Player moved left, now at pos 860   5
+Player moved left, now at pos 850   5
+Player moved left, now at pos 840   5
+Player moved left, now at pos 830   5
+Player moved left, now at pos 820   5
+Player moved left, now at pos 810   5
+space pressed
+space pressed
+==> Mushroom destroyed at 835   237
+space pressed
+space pressed
+Collision between centipede and mushroom detected at 319   348
+Collision between centipede and mushroom detected at 372   331
+==> Mushroom destroyed at 832   509
+space pressed
+space pressed
+==> Mushroom destroyed at 841   598
+space pressed
+space pressed
+Collision between centipede and mushroom detected at 1003   271
+==> Fire hit at centipede index 0
+==> Mushroom generated at 0
+Collision between centipede and mushroom detected at 842   250
+space pressed
+space pressed
+==> Mushroom destroyed at 834   260
+Collision between centipede and mushroom detected at 935   229
+space pressed
+Collision between centipede and mushroom detected at 35   205
+space pressed
+space pressed
+==> Scorpio poisoned Mushroom at 113   677
+==> Scorpio poisoned Mushroom at 113   677
+space pressed
+space pressed
+space pressed
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+==> Scorpio poisoned Mushroom at 0   0
+space pressed
+Player moved up, now at pos 820   25
+Player moved up, now at pos 820   35
+Player moved up, now at pos 820   45
+Player moved up, now at pos 820   55
+PLAYER COLLIDED WITH CENTIPEDE, THE GAME WILL NOW EXIT
