@@ -4,4 +4,4 @@ Centipede is a vertically oriented fixed shooter arcade game produced by Atari, 
 
 <img height="400px" widht="400px" align="center" alt="GIF" src="http://thelawleys.com/images/centipede/centanim.gif" />
 
-This is written entirely in C++ and is one of my favourite projects i have worked on.
+This is written entirely in C++.
