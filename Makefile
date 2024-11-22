@@ -1,4 +1,4 @@
-CXXFLAGS =	-g3 -Wall -fmessage-length=0 #-Werror
+CXXFLAGS =	-g3 -fmessage-length=0 -Wno-narrowing -Wno-macro-redefined
 
 OBJS =		Centipede.o Scorpion.o Segment.o Spider.o ScoreBoard.o Flea.o Player.o MoveableObject.o MushroomArr.o Mushroom.o Fire.o GameObject.o Position.o Board.o util.o game.o
 

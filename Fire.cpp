@@ -25,7 +25,7 @@ void Fire::Collision() {
 }
 void  Fire::Move() {
 	//setPos(Fx,Fy+20);
-	Fy+=5;
+	Fy+=12;
 }
 
 
